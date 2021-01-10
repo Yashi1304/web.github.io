@@ -71,7 +71,7 @@
 
 }
 .background{
-    background: rgba(0,0,0,0.7)url('re-imagining-the-empire-state-building-in-9-different-architectural-styles.jpg');
+    background: rgba(0,0,0,0.7)url('empire.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
